@@ -7,13 +7,13 @@ body {
   font-family: Helvetica;
   margin: 0;
   padding: 0;
-  background: rgb(9, 35, 175);
   background: linear-gradient(
     180deg,
-    rgba(9, 35, 175, 1) 0%,
-    rgba(0, 0, 0, 1) 100%
-  );
+    #0923AF 0%,
+    #000000 100%
+);
   color: #fff;
+  background-attachment: fixed;
 }
 
 button {
