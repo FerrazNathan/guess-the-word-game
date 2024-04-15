@@ -41,3 +41,6 @@ yarn
 npm start
 ou
 yarn start
+
+## Exemplo da Aplicação:
+![image](https://github.com/FerrazNathan/guess-the-word-game/assets/87137626/cd60f70e-ea2e-4a1c-ae3d-0cfb0a38e5d2)
